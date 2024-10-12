@@ -121,33 +121,31 @@ export const projects = [
 export const testimonials = [
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+      "It will be an extreme pleasure to recommend Atul as a reliable and dedicated candidate for any organization. Atul provided in great capacity his excellent skill to LCP and was responsible for the development of EAWA (website) for one of our initiatives. Atul has shown excellent work ethics to the team. Atul pays exquisite attention to detail and has a unique and creative mind. He showed excellent communication skills and consistently exceeded company expectations. On a personal level, He is charismatic and well-spoken, both qualities that have served him very well in our organization. He is also extremely organized, flexible and patient enough to get a result. Atul can work independently or as a team player. He is able to follow through to ensure a work well done. Atul will be a great individual for any organization and I heartily endorse him for his skills. Atul is a pleasure to work with",
+    name: "Ini Usanga",
+    title: "Founder/Global Overseer at Love and Care for People Worldwide",
+    img: "/ini.jpeg",
   },
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+      "I rarely come across real talents who stand out like Atul. I had the pleasure of training Atul as a part of GAIP Academic Internship in which he went through a 21 days of Big Data training associated with HPE Singapore. Atul was not only exceptionally good but also helped his fellow teammates on and during training process to help them debug their projects showcasing outstanding qualities of a team player. His performance resulted into being selected as one of the GAIP Champions. He would be a great asset to any organization. I wish him all the best for his future endeavours.",
+    name: "Ravindra Kumar",
+    title: "Director of OpenSource Private Limited",
+    img: "/ravindra.jpeg",
   },
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+      "Atul was one of the selected students for the GAIP Internship Programme 2018 at NUS Singapore. As an Interviewer, I really liked his passion and interest towards Machine Learning and his excellent knowledge in the field of Data Science. His performance resulted into being selected as one of the GAIP Champions and his duty was to conduct technical interviews with the new applicants of 2019. He also has outstanding communication skills. His interest towards technologies keeps him curious to learn more. I wish him all the best for future.",
+    name: "Jayesh Rathore",
+    title: "Director of Corporate Gurukul",
+    img: "/jayesh.jpeg",
   },
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
-  },
-  {
-    quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+      "Atul has excellent knowledge of his scope and he is always excited to learn new things and to engage himself in projects, he is a constant learner who is always looking to become even better in what he does. I was Atul's supervisor in one of his research paper intitled Anomaly Detection in Real time series dataset , he proved that he possessed excellent technical skills and we were able to co-operate with the utmost success. He has excellent skills in Machine Learning and Data Visualisation.",
+    name: "Dr. Abhineet Anand",
+    title: "Dean of Computer Science and Engineering at Galgotias University",
+    img: "/abhineet.jpeg",
   },
 ];
 
@@ -187,31 +185,31 @@ export const companies = [
 export const workExperience = [
   {
     id: 1,
-    title: "Frontend Engineer Intern",
-    desc: "Assisted in the development of a web-based platform using React.js, enhancing interactivity.",
+    title: "Senior Software Engineer",
+    desc: "As a Senior Software Engineer, I lead the design and development of robust web applications from scratch using React, JavaScript, HTML/CSS, and Node.js. My work focused on designing and developing highly scalable and User Friendly Web Applications.",
     className: "md:col-span-2",
-    thumbnail: "/exp1.svg",
+    thumbnail: "/carelon.svg",
   },
   {
     id: 2,
-    title: "Mobile App Dev - JSM Tech",
-    desc: "Designed and developed mobile app for both iOS & Android platforms using React Native.",
+    title: "Software Engineer",
+    desc: "As a Software Developer with a focus on SAP Extension Suit development, I have been responsible for designing, developing, deploying, and maintaining various SAP Extension Suit applications using JavaScript, HTML, CSS, and Node.js (Backend Framework).",
     className: "md:col-span-2", // change to md:col-span-2
-    thumbnail: "/exp2.svg",
+    thumbnail: "/SAP-logo.svg",
   },
   {
     id: 3,
-    title: "Freelance App Dev Project",
-    desc: "Led the dev of a mobile app for a client, from initial concept to deployment on app stores.",
+    title: "Graduate Software Developer",
+    desc: "Completed a comprehensive three-month Full-stack Development Bootcamp. Led and designed full-stack application that streamlined managerial tasks, reducing workload and increasing efficiency. I also led the development of a website using Angular/Typescript on Node JS, showcasing the work undertaken by DXC in Galway.",
     className: "md:col-span-2", // change to md:col-span-2
-    thumbnail: "/exp3.svg",
+    thumbnail: "/dxc.svg",
   },
   {
     id: 4,
-    title: "Lead Frontend Developer",
-    desc: "Developed and maintained user-facing features using modern frontend technologies.",
+    title: "Academic Intern",
+    desc: "During my tenure as an Academic Intern in the Global Academic Internship Program, I had the privilege of working alongside National University Singapore and Hewlett-Packard Enterprise, Asia-Pacific, under the guidance of esteemed advising professors at NUS. My focus during this internship was on Data Analytics using Artificial Neural Networks and Machine Learning.",
     className: "md:col-span-2",
-    thumbnail: "/exp4.svg",
+    thumbnail: "/NUS.svg",
   },
 ];
 
