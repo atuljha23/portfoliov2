@@ -40,7 +40,7 @@ export const gridItems = [
   {
     id: 4,
     title:
-      "My Hobbies include playing guitar, learning new technologies and playing video games",
+      "My Hobbies include playing guitar and video games, coding, learning new tech",
     description: "Because all work and no play makes Jack a dull boy.",
     className: "lg:col-span-2 md:col-span-3 md:row-span-1",
     imgClassName: "",
@@ -216,14 +216,12 @@ export const workExperience = [
 export const socialMedia = [
   {
     id: 1,
+    url: "https://github.com/atuljha23",
     img: "/git.svg",
   },
   {
     id: 2,
-    img: "/twit.svg",
-  },
-  {
-    id: 3,
+    url: "https://www.linkedin.com/in/atul23jha/",
     img: "/link.svg",
   },
 ];
